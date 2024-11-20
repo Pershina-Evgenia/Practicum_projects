@@ -54,3 +54,6 @@
 - `Wire 1 … Wire 9` — время подачи проволочных материалов.
 
 Во всех файлах столбец `key` содержит номер партии. В файлах может быть несколько строк с одинаковым значением key: они соответствуют разным итерациям обработки.
+
+
+Ссылка на проект: [Проект в nbviewer](https://nbviewer.org/github/Pershina-Evgenia/Practicum_projects/blob/main/final_project/final_project_j_p.ipynb) 
